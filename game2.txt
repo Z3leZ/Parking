@@ -1,0 +1,8 @@
++-------+
+|HGGDCCC|
+|H.FD..B|
+|..FEEEB|
+|.IIIIIB|
+|AAA...B.
++-------+
+18
